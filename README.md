@@ -1,6 +1,8 @@
 # STARTER-jpa03
 
-Running at: <https://jpa03-N-Nicholls.dokku-05.cs.ucsb.edu>
+Running at: <https://jpa03-n-nicholls.dokku-05.cs.ucsb.edu>
+
+
 
 # Configuring GitHub Pages for the documentation
 
